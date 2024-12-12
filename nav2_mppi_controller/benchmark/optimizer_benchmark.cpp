@@ -13,9 +13,7 @@
 // limitations under the License.
 
 #include <benchmark/benchmark.h>
-
 #include <string>
-#include <vector>
 
 #include "gtest/gtest.h"
 #include <geometry_msgs/msg/pose_stamped.hpp>
